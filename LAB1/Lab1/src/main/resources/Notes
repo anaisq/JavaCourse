@@ -1,0 +1,12 @@
+Annotation:
+
+@Configuration
+@Bean (name = "beanName")
+@Primary
+@Component
+@ComponentScan
+
+Packages:
+
+config
+bean
